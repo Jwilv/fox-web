@@ -1,5 +1,7 @@
-import wallpaper from './wallpaper.jpg'
+import wallpaper from './wallpaper.png'
+import logo from './logo.png'
 
 export {
-    wallpaper
+    wallpaper,
+    logo
 }
